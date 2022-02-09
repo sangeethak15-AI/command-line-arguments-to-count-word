@@ -31,7 +31,7 @@ print the output
 
 ## PROGRAM:
 ```
-##Delovped by : K.Sangeetha
+##Developed by : K.Sangeetha
 ##Register number :212221230085
 
 import sys
